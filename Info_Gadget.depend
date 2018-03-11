@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1490922168 source:c:\users\user\desktop\temp\project_cpp\multilinked_list\info_gadget\main.cpp
+	<iostream>
+	<cstdlib>
+	"relationList.h"
+
+1490623977 c:\users\user\desktop\temp\project_cpp\multilinked_list\info_gadget\parentlist.h
+	<iostream>
+
+1490935036 source:c:\users\user\desktop\temp\project_cpp\multilinked_list\info_gadget\parentlist.cpp
+	"parentList.h"
+	<iostream>
+
+1490854840 source:c:\users\user\desktop\temp\project_cpp\multilinked_list\info_gadget\childlist.cpp
+	"childList.h"
+	<iostream>
+
+1490624021 c:\users\user\desktop\temp\project_cpp\multilinked_list\info_gadget\childlist.h
+	<iostream>
+
+1490854840 source:c:\users\user\desktop\temp\project_cpp\multilinked_list\info_gadget\relationlist.cpp
+	"relationList.h"
+	<iostream>
+
+1490361728 c:\users\user\desktop\temp\project_cpp\multilinked_list\info_gadget\relationlist.h
+	<iostream>
+	"parentList.h"
+	"childList.h"
+
+1489686515 source:c:\users\user\desktop\temp\project_cpp\multilinked_list\info_gadget_backup\info_gadget\childlist.cpp
+	"childList.h"
+	<iostream>
+
+1489659466 c:\users\user\desktop\temp\project_cpp\multilinked_list\info_gadget_backup\info_gadget\childlist.h
+	<iostream>
+
+1489845854 source:c:\users\user\desktop\temp\project_cpp\multilinked_list\info_gadget_backup\info_gadget\main.cpp
+	<iostream>
+	"parentList.h"
+	"childList.h"
+	"relationList.h"
+
+1489843098 c:\users\user\desktop\temp\project_cpp\multilinked_list\info_gadget_backup\info_gadget\parentlist.h
+	<iostream>
+
+1489845359 c:\users\user\desktop\temp\project_cpp\multilinked_list\info_gadget_backup\info_gadget\relationlist.h
+	<iostream>
+	"parentList.h"
+	"childList.h"
+
+1489843186 source:c:\users\user\desktop\temp\project_cpp\multilinked_list\info_gadget_backup\info_gadget\parentlist.cpp
+	"parentList.h"
+	<iostream>
+
+1489845037 source:c:\users\user\desktop\temp\project_cpp\multilinked_list\info_gadget_backup\info_gadget\relationlist.cpp
+	"relationList.h"
+	<iostream>
+
